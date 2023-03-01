@@ -1,5 +1,6 @@
 `SCRIPT BULLET ALPHA V0.0.0.1 EARLY ACCESS`
-
+`USERNAME : admin`
+`PASSWORD : admin`
 
 ![image](https://user-images.githubusercontent.com/106864876/222274565-dc364392-22e4-4de9-b5ed-1bcd4677a21d.png)
 
