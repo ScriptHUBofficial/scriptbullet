@@ -2,6 +2,27 @@
 `USERNAME : admin`
 `PASSWORD : admin`
 
+#TOOL LİST
++proxy checker
++combo edıtor
++auto owo play bot
++ninjacord discord tools
+
++netflix checker
++exxen checker
++dsmart checker
++tivibu checker
++blutv checker
++dolap checker
++disneyplus checker
++trendyol checker
++bein connect checker
++tonguç checker
+
+
+
+# IMAGES
+
 ![image](https://user-images.githubusercontent.com/106864876/222274565-dc364392-22e4-4de9-b5ed-1bcd4677a21d.png)
 
 ![image](https://user-images.githubusercontent.com/106864876/222274626-1839fada-07cf-4585-a839-77688dba1708.png)
