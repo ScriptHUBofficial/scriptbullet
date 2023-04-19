@@ -2,7 +2,7 @@
 `USERNAME : admin`
 `PASSWORD : admin`
 
-#TOOL LİST
+# TOOL LİST
 +proxy checker
 +combo edıtor
 +auto owo play bot
