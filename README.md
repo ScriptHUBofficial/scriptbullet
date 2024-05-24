@@ -1,3 +1,10 @@
+##
+![Main Page](https://cdn.scriptbullet.com.tr/ayguun/script_hub_assets/big_banner.png)
+##
+## Official Links
+[![Website Badge](https://img.shields.io/badge/Website-Script%20Bullet-blue)](https://scriptbullet.com.tr)
+[![Blog Badge](https://img.shields.io/badge/Blog-Script%20Bullet-green)](https://blog.scriptbullet.com.tr)
+
 `SCRIPT BULLET ALPHA V0.0.0.7 EARLY ACCESS`
 `USERNAME : admin`
 `PASSWORD : admin`
